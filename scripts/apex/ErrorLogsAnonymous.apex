@@ -1,0 +1,1 @@
+ErrorLogs.newErrorLog('Test Log', 'Test Name');
